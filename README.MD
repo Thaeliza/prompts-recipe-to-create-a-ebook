@@ -22,6 +22,8 @@ seguem abaixo.
 
 <a href="https://github.com/Thaeliza/prompts-recipe-to-create-a-ebook/blob/main/output/ebook_dio.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
+Este E-Book é um guia para quem deseja adotar um gato de forma responsável, oferecendo dicas práticas sobre como garantir um lar seguro, saudável e acolhedor para o animal.
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
