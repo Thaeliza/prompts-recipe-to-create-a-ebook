@@ -36,7 +36,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema "Adoção de Gatos". O ebook é para o público em geral, o título deve ser curto e direto. Liste ao menos cinco opções de títulos.
-| conteúdo | Atue como um redator de texto para um ebook sobre adoção de gatos e formule os principais tópicos que deverão ser abordados como dicas para adoção de gatos. {REGRAS} Explique sempre de uma maneira simples e direta, utilizando uma linguagem mais acessível para o público em geral. 
+| conteúdo | Atue como um redator de texto para um ebook sobre adoção de gatos e formule os principais tópicos que deverão ser abordados como dicas para adoção de gatos e os cuidados necessários pós adoção. {REGRAS} Explique sempre de uma maneira simples e direta, utilizando uma linguagem mais acessível para o público em geral. 
 
 
 Leonardo.Ai：
