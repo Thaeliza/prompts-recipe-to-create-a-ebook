@@ -1,5 +1,6 @@
 <p align="center">
-    <img width="100" src=".github/assets/Ebook_cats2.jpg">
+    <img width="100" 
+    src=".github/assets/Ebook_cats2.png">
 </p>
 
 
